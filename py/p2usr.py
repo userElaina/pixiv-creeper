@@ -59,6 +59,6 @@ def adown(gid:str='44447852')->list:
 	return marks
 
 if __name__=='__main__':
-	print(adown('26495670'))
+	print(adown('11'))
 
 
